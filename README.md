@@ -1,13 +1,13 @@
 - # Hello, fellow developers!!
 -  👋 Hi, I’m @HarshScripts22, a student on a journey to create awesome web experiences.
 -  👀 I’m interested in creating beautiful and functional user interfaces.
+-  
 -  🌱 I’m currently learning
 -   I'm currently honing my skills in:
-- 
 -   Advanced JavaScript concepts
 -   UI/UX principles
+-   
 -  🔧 Technologies & Tools
--  
 -    **Languages:** HTML5, CSS3, JavaScript
 -    **CSS Frameworks:** Bootstrap
 -    **Version Control:** Git & Github

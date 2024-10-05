@@ -1,7 +1,7 @@
 -Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harsh Deshmukh
 ======================================================================================================================================
 
-Frontend developer
+
 ------------------
 
 Hi, I'm @HarshScripts22, a student on a journey to create awesome web experiences. A passionate learner diving deep into the world of web development. With strong foundation in front-end development
